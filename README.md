@@ -1,4 +1,4 @@
-# 🍽️ Gnocchi & Giggles
+# 🍝 Gnocchi & Giggles
 
 A responsive restaurant menu website designed for an Italian-themed restaurant. The website showcases a clean and modern interface with categorized menu items, restaurant information, opening hours, and contact details.
 
